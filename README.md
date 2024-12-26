@@ -4,9 +4,7 @@
 
 <h1 align="center">👋 Welcome to Securinets ISET Zaghouan</h1>
 <h3 align="center">The official GitHub repository of the Securinets Club at ISET Zaghouan! <br> Join us as we collaborate, share, and grow as a community of cybersecurity enthusiasts. 🔥</h3>
-<br>
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/5dIGBYTZ#bKamApLZ9FLG-2JnIV4hA4n_2GRZVG_S3EaQWJnFTV8" allowfullscreen ></iframe> 
-<br>
+
 
 <h3 align="center">🌐 Engage with Us:</h3>
 <p align="center">
