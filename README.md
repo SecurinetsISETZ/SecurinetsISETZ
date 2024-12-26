@@ -1,5 +1,5 @@
 <a href="https://imgur.com/VzIlOw9" target="_blank">
-  <img src="https://i.imgur.com/VzIlOw9.jpg" alt="Image" style="display: inline-block; width: 1000px; height: auto;">
+  <img src="https://i.imgur.com/VzIlOw9.jpg" alt="Image" style="display: inline-block; width: 200px; height: auto; text-align: center;">
 </a>
 
 <h1 align="center">👋 Welcome to Securinets ISET Zaghouan</h1>
@@ -26,6 +26,5 @@
 <h3 align="center">🚀 Join Us in Our Journey!</h3>
 <p align="center">We are excited to have you here! Feel free to explore our projects, contribute, and connect with fellow cybersecurity enthusiasts.</p>
 <center>
-
-  ![WhatsApp Vidéo 2024-12-24 à 20 23 (online-video-cutter com)](https://github.com/user-attachments/assets/538e2be0-fe0a-4ff4-9b09-20fca52f41fd)
+  <img src="https://github.com/user-attachments/assets/538e2be0-fe0a-4ff4-9b09-20fca52f41fd" alt="WhatsApp Vidéo 2024-12-24 à 20 23 (online-video-cutter com)" style="display: block; margin-left: auto; margin-right: auto; width: 200px; height: auto;">
 </center>
