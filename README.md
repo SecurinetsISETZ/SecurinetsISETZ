@@ -1,6 +1,8 @@
 <a href="https://imgur.com/VzIlOw9" target="_blank">
-  <img src="https://i.imgur.com/VzIlOw9.jpg" alt="Image" style="display: inline-block; width: 200px; height: auto; text-align: center;">
-</a>
+
+<img src="https://i.imgur.com/VzIlOw9.jpg" alt="Image" style="display: inline-block; width: 1000px; height: auto;">
+
+</a> 
 
 <h1 align="center">👋 Welcome to Securinets ISET Zaghouan</h1>
 <h3 align="center">The official GitHub repository of the Securinets Club at ISET Zaghouan! <br> Join us as we collaborate, share, and grow as a community of cybersecurity enthusiasts. 🔥</h3>
@@ -26,5 +28,5 @@
 <h3 align="center">🚀 Join Us in Our Journey!</h3>
 <p align="center">We are excited to have you here! Feel free to explore our projects, contribute, and connect with fellow cybersecurity enthusiasts.</p>
 <center>
-  <img src="https://github.com/user-attachments/assets/538e2be0-fe0a-4ff4-9b09-20fca52f41fd" alt="WhatsApp Vidéo 2024-12-24 à 20 23 (online-video-cutter com)" style="display: block; margin-left: auto; margin-right: auto; width: 200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/538e2be0-fe0a-4ff4-9b09-20fca52f41fd" alt="WhatsApp Vidéo 2024-12-24 à 20 23 (online-video-cutter com)" style="display: block; margin-left: auto; margin-right: auto; width: 400px; height: auto;text-align: center">
 </center>
