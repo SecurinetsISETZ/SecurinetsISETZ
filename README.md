@@ -26,7 +26,6 @@
 <h3 align="center">🚀 Join Us in Our Journey!</h3>
 <p align="center">We are excited to have you here! Feel free to explore our projects, contribute, and connect with fellow cybersecurity enthusiasts.</p>
 <center>
-<div style="width:400px; height: 400px;">
+
   ![WhatsApp Vidéo 2024-12-24 à 20 23 (online-video-cutter com)](https://github.com/user-attachments/assets/538e2be0-fe0a-4ff4-9b09-20fca52f41fd)
-</div>
-</center>center>
+</center>
