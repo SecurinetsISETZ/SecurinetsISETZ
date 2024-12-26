@@ -5,10 +5,6 @@
 <h3 align="center">Welcome to the official GitHub repository of the Securinets Club at ISET Zaghouan! <br> This is where we collaborate, share, and grow as a community of cybersecurity enthusiasts.🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=securinetsisetz&label=Profile%20views&color=0e75b6&style=flat" alt="securinetsisetz" /> </p>
-<video width="640" height="360" controls>
-  <source src="https://streamable.com/al2ymf" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 <center>
 <h3 align="left">Engage with us:</h3>
 <p align="left">
