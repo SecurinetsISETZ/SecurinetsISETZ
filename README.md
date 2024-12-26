@@ -5,10 +5,6 @@
 <h1 align="center">👋 Welcome to Securinets ISET Zaghouan</h1>
 <h3 align="center">The official GitHub repository of the Securinets Club at ISET Zaghouan! <br> Join us as we collaborate, share, and grow as a community of cybersecurity enthusiasts. 🔥</h3>
 
-<center><p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=securinetsisetz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p></center>
-
 <h3 align="center">🌐 Engage with Us:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/securinetsisetz" target="_blank">
