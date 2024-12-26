@@ -10,10 +10,10 @@
   <a href="https://linkedin.com/company/securinets-iset-zaghouan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/search/top?q=securinets%20iset%20zaghouan" target="_blank">
+  <a href="https://www.facebook.com/SecuriNets.ZG" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/securinets_iset_zaghouan?igsh=MTg2eTV5aGsydTVwYQ==" target="_blank">
+  <a href="https://www.instagram.com/securinets_iset_zaghouan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
