@@ -9,7 +9,7 @@
   <source src="https://streamable.com/al2ymf" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+<center>
 <h3 align="left">Engage with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/securinetsisetz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="securinetsisetz" height="30" width="40" /></a>
@@ -18,4 +18,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=securinetsisetz&show_icons=true&locale=en" alt="securinetsisetz" /></p>
+</center>
 
