@@ -1,5 +1,5 @@
 <a href="https://imgur.com/VzIlOw9" target="_blank">
-  <img src="https://i.imgur.com/VzIlOw9.jpg" alt="Image" style="display: inline-block; width: 500px; height: auto;">
+  <img src="https://i.imgur.com/VzIlOw9.jpg" alt="Image" style="display: inline-block; width: 800px; height: auto;">
 </a>
 <h1 align="center">Welcome to Securinets ISET Zaghouan👋</h1>
 <h3 align="center">Welcome to the official GitHub repository of the Securinets Club at ISET Zaghouan! This is where we collaborate, share, and grow as a community of cybersecurity enthusiasts.🔥</h3>
